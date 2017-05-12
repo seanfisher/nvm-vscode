@@ -1,0 +1,7 @@
+{
+  "name": "nvm-vscode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sean Fisher",
+  "license": "MIT"
+}
