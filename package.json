@@ -3,5 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Sean Fisher",
+  "description": "Shows how to use NVM with VS Code",
+  "homepage": "https://www.seafish.io/blog/nvm-and-vs-code/",
+  "keywords": [
+    "nvm",
+    "nodejs",
+    "vscode"
+  ],
+  "repository": "https://github.com/seanfisher/nvm-vscode",
   "license": "MIT"
 }
